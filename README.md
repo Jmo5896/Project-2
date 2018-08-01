@@ -1,9 +1,12 @@
 # Body Book
-        Body Book is a company that will ensure you can keep your personal health in tact, while dealing with the hustle and bustle of everyday life. Information such
-    as vaccine history or your last checkup may not seem overly important, but without it we subject ourselves to uninformed professionals, resulting in questionable
-    medical procedures. With Body Book you can keep all your health information at your finger tips, including, but not limited to, setting up new appointments and a
-    list of medications you are allergic to. Here at Body Book we strive to minimize the amount of medical mixups, regardless of how serious or trivial they may be.
-    Check out the latest version of the working site at: 
+            Body Book is a company that will ensure you can keep your personal health in tact, while dealing with 
+        the hustle and bustle of everyday life. Information such as vaccine history or your last checkup may not seem 
+        overly important, but without it we subject ourselves to uninformed professionals, resulting in questionable 
+        medical procedures. With Body Book you can keep all your health information at your finger tips, including, 
+        but not limited to, setting up new appointments and a list of medications you are allergic to. Here at Body 
+        Book we strive to minimize the amount of medical mixups, regardless of how serious or trivial they may be.
+    
+    *Check out the latest version of the working site at: 
 [Body Book](https://secure-wildwood-86684.herokuapp.com/)
         
         *If you don't want to sign-up just use this login info:
@@ -25,7 +28,8 @@
             *passport
             *passport-local
             *sequelize
-        3. Next you'll want to fire up your MAMP and your mySQL manging app (I use HeidiSQL).  If you need these check out the links below: 
+        3. Next you'll want to fire up your MAMP and your mySQL manging app (I use HeidiSQL).  If you need these 
+        check out the links below: 
 [MAMP](https://www.mamp.info/en/) && [HeidiSQL](https://www.heidisql.com/download.php)
 
         4. with your mySQL manager make sure everything aligns with the config.json info.
@@ -45,7 +49,8 @@
 
             *email: guest@guest.com
             *password: password
-    2. In the body book you can add medical information in an easy to reach location, we have broken it down into 4 categories: History of Body, Fix my Body, Medicate my Body, and Insure my Body.
+    2. In the body book you can add medical information in an easy to reach location, we have broken it down into 4 
+    categories: History of Body, Fix my Body, Medicate my Body, and Insure my Body.
         *History of Body (medical history):
             *this is where you can easily store and access your medical history:
 [History Demo](./gifs/history-demo.gif)
