@@ -81,7 +81,7 @@
     *Express
     *mySQL
     *Node.js
-    Passport.js
+    *Passport.js
 
 # Authors:
     * Dantel Williamson - UI, UX, & API Calls
