@@ -3,7 +3,7 @@ $(document).ready(function(){
     $.get("/user_appt").then(function(data) {
 
         for (var i = 0; i < data.length; i++) {
-            $(".appointment").append(`<li>
+            $(".appointment").append(`<li> <button>X</button>
             <p>Date: ${data[i].date}</p>
             <p>Time: ${data[i].time}</p>
             <p>Type: ${data[i].type}</p>
